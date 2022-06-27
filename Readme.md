@@ -18,7 +18,7 @@ Aprenderás los conceptos básicos para administrar los recursos de Azure para e
 --------------------------------------
 
 
-### **Formato**
+### **Formato Semana1**
 
 Actividad | Duración
 -------- | ---------
@@ -29,6 +29,10 @@ Lab 1: Carga de datos en Azure Synapse Analytics mediante Azure Data Factory Pip
 **Advanced Analytics** |
 Conceptos de la plataforma de datos moderna: Parte II | 15 minutes
 Lab 2:  Explore Big Data con Azure Databricks    | 45 minutes
+
+### **Formato Semana2**
+Actividad | Duración
+-------- | ---------
 **Azure ML** |
 Conceptos básicos de Azure Machine Learning: Parte III | 15 minutes
 Lab 3: Uso del aprendizaje automático automatizado en Azure Machine Learning  | 45 minutos
